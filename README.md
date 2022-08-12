@@ -34,7 +34,6 @@ param6 = dddd==;
 ```
 $ git clone https://github.com/arpeetrathii/diff-cookie.git
 $ pip3 install -r requirements.txt
-
 ```
 
 ## Usage 
