@@ -32,9 +32,9 @@ param6 = dddd==;
 ```
 ## Installation
 ```
-$ git clone 
+$ git clone https://github.com/arpeetrathii/diff-cookie.git
 $ pip3 install -r requirements.txt
-$ python3 diff.cookie.py
+
 ```
 
 ## Usage 
